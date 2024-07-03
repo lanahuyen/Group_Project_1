@@ -7,10 +7,14 @@ starting fundamentals highly correlated with growth.
 API - 
 
 DataSet: 
-- Unicorn list (Kaggel) 
-- original funding
-- current valuation information (google finance/nasdaq API)
 
 - https://www.cbinsights.com/research-unicorn-companies
 - https://www.kaggle.com/datasets/tahzeer/unicorn-startup-companies-july-2023
 - https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups
+- Crunchbase data sets
+
+Compare unicorn companies valuations at certain intervals of time. Analysis of factors
+that contributed to growth, look at what industry is growing the quickest, etc. 
+
+
+Tasks:
