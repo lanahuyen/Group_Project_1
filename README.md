@@ -30,11 +30,15 @@ Questions:
 		-	Date vs. country (Lana)
 		-	Industry vs country (Oty) 
 
-	- analysis of correlation and r^2 fit
+	- analysis of correlation and r^2 fit (Lana)
 
-3) What investors are most frequently investing - Oty
+3) What investors are most frequently investing (Oty)
 
 4) Map of unicorn companies - plotted by size (Athena) 
 
 Summary of analysis of Unicorn companies and their changes over the past 3 years of data (group) 
 
+Visuals
+- Map of companies
+- scatter plot with regressions 
+- correlation matrix 
