@@ -11,16 +11,6 @@ DataSet:
 - https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups
   
 
-Tasks:
-- Merge Data (Lana)
-  
-- Ian - Date
-- Lana - Industry
-- Oty - Investor
-- Athena - Country
-
-- Pull in data
-
 Merge data (Athena)
 
 Questions: 
