@@ -19,3 +19,32 @@ Tasks:
 - Oty - Investor
 - Athena - Country
 
+- Pull in data
+
+Merge data (Athena)
+
+Questions: 
+
+1) What contributes most to growth
+	- Regressions between: 
+		-	growth vs date (Ian)
+		-	growth vs industry (Lana)
+		-	growth vs country (Oty)
+
+	- analysis of regressions (group)
+
+
+2) Are any of the variables correlated and what is their r^2 fit vs. each other
+	- Regressions between:
+		-	Date vs. industry (Ian)
+		-	Date vs. country (Lana)
+		-	Industry vs country (Oty) 
+
+	- analysis of correlation and r^2 fit
+
+3) What investors are most frequently investing 
+
+4) Map of unicorn companies - plotted by size (Athena) 
+
+Summary of analysis of Unicorn companies and their changes over the past 3 years of data (group) 
+
