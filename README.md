@@ -32,7 +32,7 @@ Questions:
 
 	- analysis of correlation and r^2 fit
 
-3) What investors are most frequently investing 
+3) What investors are most frequently investing - Oty
 
 4) Map of unicorn companies - plotted by size (Athena) 
 
