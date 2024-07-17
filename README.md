@@ -14,7 +14,7 @@ DataSet:
 Merge data (Athena)
 
 Questions: 
-
+/Users/lanahuyen/UCB Bootcamp/Project 1/Group_Project_1/ReadMe_inguyen.rtf
 1) What contributes most to growth
 	- Regressions between: 
 		-	growth vs date (Ian)
