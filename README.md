@@ -212,7 +212,7 @@ The analysis reveals that industry and the year of joining significantly influen
 
 To replicate this analysis, ensure you have the following libraries installed:
 
-import pandas as pd
+```import pandas as pd
 from pathlib import Path
 import hvplot.pandas
 import requests
@@ -221,7 +221,7 @@ from pprint import pprint
 from api_keys import geoapify_key
 import matplotlib.pyplot as plt
 import seaborn as sns
-from matplotlib.backends.backend_pdf import PdfPages
+from matplotlib.backends.backend_pdf import PdfPages```
 
 ---
 
