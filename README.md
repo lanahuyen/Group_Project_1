@@ -14,7 +14,7 @@ Unicorn companies, privately held startups with valuations above 1 billion USD, 
 
 ## 🚀 Project Overview
 
-Using comprehensive datasets of unicorn companies, we analyze the growth of these companies from multiple perspectives. Our analysis involves examining the growth trends based on industry, geographic location, and date of attaining unicorn status. We also investigate the impact of investors on the growth rates of these companies. The ultimate goal is to provide a detailed understanding of the factors that influence the growth and success of unicorn companies.
+Using datasets of unicorn companies, we analyze the growth of these companies versus multiple variables. Our analysis involves examining the growth trends based on industry, geographic location, and date of attaining unicorn status. We also investigate the impact of investors on the growth rates of these companies. The ultimate goal is to provide an understanding of the factors that influence the growth and success of unicorn companies.
 
 ---
 
@@ -26,7 +26,7 @@ The data for this analysis was sourced from multiple repositories, primarily Kag
 - **unicorn_startups_may_2024.xlsx**: Contains unicorn company data as of May 2024.
 - **unicorn_startups_july_2023.csv**: Contains unicorn company data as of July 2023.
 
-These datasets include information on company valuations, industries, geographic locations, dates of attaining unicorn status, and notable investors.
+These datasets include information on company valuations, industries, geographic locations, dates of attaining unicorn status, and investors.
 
 ---
 
@@ -227,49 +227,52 @@ from api_keys import geoapify_key
 import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib.backends.backend_pdf import PdfPages
-💻 Usage Instructions
+
+---
+
+## 💻 Usage Instructions
 Run the Jupyter notebooks in the following order for a complete analysis:
 
-1. merged_df_setup.ipynb
+1. **merged_df_setup.ipynb**
 This notebook merges data from various sources to create a comprehensive dataset. Ensure all necessary files are in the correct directory before running this notebook.
 
-2. geoapify_df_setup.ipynb
+2. **geoapify_df_setup.ipynb**
 Sets up the Geoapify API for geographic analysis. This step is crucial for visualizing the geographic distribution of unicorn companies.
 
-3. cagr_by_country.ipynb
+3. **cagr_by_country.ipynb**
 Calculates the average Compounded Annual Growth Rate (CAGR) by country. This notebook provides insights into which regions have the highest growth trajectories.
 
-4. Industry_vs_DateJoined.ipynb
+4. **Industry_vs_DateJoined.ipynb**
 Analyzes the relationship between the industry and the date the company joined the unicorn status. This notebook includes key visualizations like boxplots and bar graphs to illustrate growth trends across different industries and years.
 
-5. Growth_vs_DateJoined.ipynb
+5. **Growth_vs_DateJoined.ipynb**
 Examines growth trends relative to the date companies achieved unicorn status. This analysis helps understand whether earlier or later entry into the unicorn club affects growth rates.
 
-6. Country_vs_DateJoined.ipynb
+6. **Country_vs_DateJoined.ipynb**
 Looks at country-specific trends in relation to the date companies achieved unicorn status. This notebook provides insights into the geographic distribution of unicorn companies and how different regions have evolved over time.
 
-7. Unicorn_oty_condensed.ipynb
+7. **Unicorn_oty_condensed.ipynb**
 Focuses on country-wise growth analysis, identifying which countries experienced the most significant growth in unicorn valuations over the specified period.
 
-8. Unicorns_oty.ipynb
+8. **Unicorns_oty.ipynb**
 Similar to the previous notebook but provides a more detailed breakdown of country-wise growth trends, highlighting key factors contributing to growth in different regions.
 
-9. Final_Industry.ipynb
+9. **Final_Industry.ipynb**
 Analyzes industry-wise growth over the years, identifying which sectors have performed the best and which have faced challenges. Special attention is given to sectors like Artificial Intelligence and E-commerce.
 
-10. map_visualizations.ipynb
+10. **map_visualizations.ipynb**
 Generates visualizations to show the geographic distribution of unicorn companies. These visualizations include maps highlighting key innovation hubs and growth patterns.
 
 Ensure you have the necessary API keys and data files in the correct directories before running the notebooks.
 
-📎 Appendix
+##📎 Appendix
 Data Sources:
 CB Insights
 Kaggle Datasets
 Presentation
 The detailed analysis and visualizations have been compiled into a presentation. You can view the full presentation here.
 
-Additional Notes
-Data Limitations: While the data is comprehensive, it is essential to acknowledge potential limitations, such as missing values and varying data formats.
-Future Work: Future analyses could benefit from additional data points, such as age, chronic ailments, or sleep disorders, which may provide a more holistic understanding of unicorn growth trends.
+### Additional Notes
+**Data Limitations:** While the data is comprehensive, it is essential to acknowledge potential limitations, such as missing values and varying data formats.
+**Future Work:**Future analyses could benefit from additional data points, such as age, chronic ailments, or sleep disorders, which may provide a more holistic understanding of unicorn growth trends.
 This README provides a comprehensive overview of the unicorn growth project, detailing the data processing steps, analysis, and visualizations used to derive insights from the data.
