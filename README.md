@@ -70,17 +70,13 @@ The analysis was conducted through a series of Jupyter Notebooks, each focusing 
    - **Industry vs. 2022 Growth**: Visualizes the distribution of growth across different industries from 2022 to 2023.
    - **Industry vs. 2023 Growth**: Shows the growth trends from 2023 to 2024 across various industries.
    - **Industry vs. Total Growth**: Displays the total growth from 2022 to 2024 for different industries.
+   - ![Total Growth Box Plot](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/industry_growth_total.png)
 
 2. **Bar Graphs**:
    - **Average Growth per Industry**: Compares the average growth rates across different industries for 2022, 2023, and the total growth period.
    - **Industry Growth Trends**: Highlights key growth trends in leading industries such as Artificial Intelligence, E-commerce, and Cybersecurity.
-   - **Total Growth Bar**: ![Total Growth Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/total_growth_Bar.png)
+   - **Total Growth Bar**: ![Total Growth Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/average_growth_total.png)
 
-3. **Line Plots**:
-   - **Growth Over Time**: Shows how the growth of unicorn companies varies over the years for each industry.
-   - **Industry Performance**: Looks at the performance of specific industries over time.
-   - **Growth 2022-2023 Bar**: ![Growth 2022-2023 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_22-23_bar.png)
-   - **Growth 2023-2024 Bar**: ![Growth 2023-2024 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_23-24_bar.png)
 
 #### Country Analysis:
 
