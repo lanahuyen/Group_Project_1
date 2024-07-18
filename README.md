@@ -221,10 +221,11 @@ from pprint import pprint
 from api_keys import geoapify_key
 import matplotlib.pyplot as plt
 import seaborn as sns
-from matplotlib.backends.backend_pdf import PdfPages```
+from matplotlib.backends.backend_pdf import PdfPages
 
 ---
 
+```
 ## 💻 Usage Instructions
 Run the Jupyter notebooks in the following order for a complete analysis:
 
