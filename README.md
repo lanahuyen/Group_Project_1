@@ -74,26 +74,26 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
 2. **Bar Graphs**:
    - **Average Growth per Industry**: Compares the average growth rates across different industries for 2022, 2023, and the total growth period.
    - **Industry Growth Trends**: Highlights key growth trends in leading industries such as Artificial Intelligence, E-commerce, and Cybersecurity.
-   - **Total Growth Bar**: ![Total Growth Bar](Group_Project_1/output_data/total_growth_Bar.png)
+   - **Total Growth Bar**: ![Total Growth Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/total_growth_Bar.png)
 
 3. **Line Plots**:
    - **Growth Over Time**: Illustrates how the growth of unicorn companies varies over the years for each industry.
    - **Industry Performance**: Tracks the performance of specific industries over time, identifying peaks and declines.
-   - **Growth 2022-2023 Bar**: ![Growth 2022-2023 Bar](Group_Project_1/output_data/growth_22-23_bar.png)
-   - **Growth 2023-2024 Bar**: ![Growth 2023-2024 Bar](Group_Project_1/output_data/growth_23-24_bar.png)
+   - **Growth 2022-2023 Bar**: ![Growth 2022-2023 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_22-23_bar.png)
+   - **Growth 2023-2024 Bar**: ![Growth 2023-2024 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_23-24_bar.png)
 
 #### Country Analysis:
 
 1. **Line Graphs**:
    - **Total Valuations by Country**: Compares the total valuations of unicorn companies across different countries for 2022, 2023, and 2024.
    - **Country Growth Trends**: Highlights growth trends in countries like the United States, China, India, and the United Kingdom.
-   - **2022-2023-2024 Graph (No US, China)**: ![2022-2023-2024 Graph (No US, China)](Group_Project_1/output_data/2022-23-24graph_no_us_china.png)
-   - **2022-2023-2024 Graph**: ![2022-2023-2024 Graph](Group_Project_1/output_data/2022-23-24graph.png)
+   - **2022-2023-2024 Graph (No US, China)**: ![2022-2023-2024 Graph (No US, China)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/2022-23-24graph_no_us_china.png)
+   - **2022-2023-2024 Graph**: ![2022-2023-2024 Graph](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/2022-23-24graph.png)
 
 2. **Bar Graphs**:
    - **Average Growth per Country**: Shows the average growth rates for unicorn companies in different countries.
    - **Country Growth Comparison**: Provides a detailed comparison of growth rates across top-performing countries.
-   - **CAGR by Country**: ![CAGR by Country](Group_Project_1/output_data/cagr_by_country.png)
+   - **CAGR by Country**: ![CAGR by Country](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/cagr_by_country.png)
 
 3. **Geographic Maps**:
    - **Unicorn Distribution**: Visualizes the geographic distribution of unicorn companies, highlighting key innovation hubs.
@@ -113,7 +113,7 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
 
 1. **Bar Graphs**:
    - **Top Investors**: Identifies the most frequent investors in unicorn companies and their investment focus areas.
-   - **Investor Frequency**: ![Investor Frequency](Group_Project_1/output_data/investor_frequency.png)
+   - **Investor Frequency**: ![Investor Frequency](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/investor_frequency.png)
 
 2. **Network Diagrams**:
    - **Investor Connections**: Visualizes the network of top investors and their relationships with unicorn companies.
@@ -121,20 +121,20 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
 
 ### Additional Visualizations:
 
-- **Country vs Industry**: ![Country vs Industry](Group_Project_1/output_data/country_industry.png)
-- **Greatest CAGR**: ![Greatest CAGR](Group_Project_1/output_data/df_greatest_cagr.png)
-- **Greatest Number Declining**: ![Greatest Number Declining](Group_Project_1/output_data/df_greatest_number_declining.png)
-- **Greatest Number Growing**: ![Greatest Number Growing](Group_Project_1/output_data/df_greatest_number_growing.png)
-- **Greatest Number Startups**: ![Greatest Number Startups](Group_Project_1/output_data/df_greatest_number_startups.png)
-- **Greatest Percent Declining**: ![Greatest Percent Declining](Group_Project_1/output_data/df_greatest_percent_declining.png)
-- **Greatest Percent Growing**: ![Greatest Percent Growing](Group_Project_1/output_data/df_greatest_percent_growing.png)
-- **Greatest Percent Startups**: ![Greatest Percent Startups](Group_Project_1/output_data/df_greatest_percent_startups.png)
-- **Lowest CAGR**: ![Lowest CAGR](Group_Project_1/output_data/df_lowest_cagr.png)
-- **Average Growth Rate by Year (Interval One)**: ![Average Growth Rate by Year (Interval One)](Group_Project_1/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Interval%20One).png)
-- **Average Growth Rate by Year (Interval Two)**: ![Average Growth Rate by Year (Interval Two)](Group_Project_1/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Interval%20Two).png)
-- **Average Growth Rate by Year (Overall)**: ![Average Growth Rate by Year (Overall)](Group_Project_1/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Overall).png)
-- **Number of Unicorn Companies Joining Per Year (2024)**: ![Number of Unicorn Companies Joining Per Year (2024)](Group_Project_1/output_data/GrowthvsDateJoined/Number%20of%20Unicorn%20Companies%20Joining%20Per%20Year%20(2024).png)
-- **Number of Unicorn Companies Joining Per Year Overall**: ![Number of Unicorn Companies Joining Per Year Overall](Group_Project_1/output_data/GrowthvsDateJoined/Number%20of%20Unicorn%20Companies%20Joining%20Per%20Year%20Overall.png)
+- **Country vs Industry**: ![Country vs Industry](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/country_industry.png)
+- **Greatest CAGR**: ![Greatest CAGR](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_cagr.png)
+- **Greatest Number Declining**: ![Greatest Number Declining](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_number_declining.png)
+- **Greatest Number Growing**: ![Greatest Number Growing](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_number_growing.png)
+- **Greatest Number Startups**: ![Greatest Number Startups](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_number_startups.png)
+- **Greatest Percent Declining**: ![Greatest Percent Declining](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_percent_declining.png)
+- **Greatest Percent Growing**: ![Greatest Percent Growing](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_percent_growing.png)
+- **Greatest Percent Startups**: ![Greatest Percent Startups](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_greatest_percent_startups.png)
+- **Lowest CAGR**: ![Lowest CAGR](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/df_lowest_cagr.png)
+- **Average Growth Rate by Year (Interval One)**: ![Average Growth Rate by Year (Interval One)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Interval%20One).png)
+- **Average Growth Rate by Year (Interval Two)**: ![Average Growth Rate by Year (Interval Two)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Interval%20Two).png)
+- **Average Growth Rate by Year (Overall)**: ![Average Growth Rate by Year (Overall)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/GrowthvsDateJoined/Average%20Growth%20Rate%20by%20Year%20(Overall).png)
+- **Number of Unicorn Companies Joining Per Year (2024)**: ![Number of Unicorn Companies Joining Per Year (2024)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/GrowthvsDateJoined/Number%20of%20Unicorn%20Companies%20Joining%20Per%20Year%20(2024).png)
+- **Number of Unicorn Companies Joining Per Year Overall**: ![Number of Unicorn Companies Joining Per Year Overall](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/GrowthvsDateJoined/Number%20of%20Unicorn%20Companies%20Joining%20Per%20Year%20Overall.png)
 
 ---
 
