@@ -47,20 +47,20 @@ We calculated the percentage growth for three periods:
 
 ### Merging Data
 
-The initial steps involved merging data from different files to create a comprehensive dataset. This was done in the `merged_df_setup.ipynb` notebook. The merged dataset was then used for further analysis and visualization.
+The first step involved merging data from different files to create a merged dataset. This was done in the `merged_df_setup.ipynb` notebook. The merged dataset was then used for further analysis and visualization.
 
 ---
 
 ## 📈 Analysis and Visualization
 
-The analysis was conducted through a series of Jupyter notebooks, each focusing on a specific aspect of the data. The visualizations provide insights into the growth trends and patterns of unicorn companies.
+The analysis was conducted through a series of Jupyter Notebooks, each focusing on a specific aspect of the data. The visualizations provide insights into the growth trends and patterns of unicorn companies.
 
-### Key Analyses:
+### Key Analysis:
 
 - **Industry Analysis**: Examining the growth rates of different industries.
 - **Country Analysis**: Analyzing growth trends across various countries.
 - **Date of Entry Analysis**: Investigating the impact of the date of attaining unicorn status on growth.
-- **Investor Analysis**: Identifying key investors and their influence on company growth.
+- **Investor Analysis**: Identifying key investors and their frequency.
 
 ### Visualizations:
 
@@ -77,8 +77,8 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
    - **Total Growth Bar**: ![Total Growth Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/total_growth_Bar.png)
 
 3. **Line Plots**:
-   - **Growth Over Time**: Illustrates how the growth of unicorn companies varies over the years for each industry.
-   - **Industry Performance**: Tracks the performance of specific industries over time, identifying peaks and declines.
+   - **Growth Over Time**: Shows how the growth of unicorn companies varies over the years for each industry.
+   - **Industry Performance**: Looks at the performance of specific industries over time.
    - **Growth 2022-2023 Bar**: ![Growth 2022-2023 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_22-23_bar.png)
    - **Growth 2023-2024 Bar**: ![Growth 2023-2024 Bar](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/growth_23-24_bar.png)
 
@@ -86,23 +86,23 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
 
 1. **Line Graphs**:
    - **Total Valuations by Country**: Compares the total valuations of unicorn companies across different countries for 2022, 2023, and 2024.
-   - **Country Growth Trends**: Highlights growth trends in countries like the United States, China, India, and the United Kingdom.
+   - **Country Growth Trends**: Points out growth trends in countries like the United States, China, India, and the UK.
    - **2022-2023-2024 Graph (No US, China)**: ![2022-2023-2024 Graph (No US, China)](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/2022-23-24graph_no_us_china.png)
    - **2022-2023-2024 Graph**: ![2022-2023-2024 Graph](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/2022-23-24graph.png)
 
 2. **Bar Graphs**:
    - **Average Growth per Country**: Shows the average growth rates for unicorn companies in different countries.
-   - **Country Growth Comparison**: Provides a detailed comparison of growth rates across top-performing countries.
+   - **Country Growth Comparison**: A visual comparison of growth rates across top-performing countries.
    - **CAGR by Country**: ![CAGR by Country](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/cagr_by_country.png)
 
 3. **Geographic Maps**:
-   - **Unicorn Distribution**: Visualizes the geographic distribution of unicorn companies, highlighting key innovation hubs.
+   - **Unicorn Distribution**: Maps out the geographic distribution of unicorn companies, highlighting hubs of startups.
    - **Growth Hotspots**: Identifies regions with the highest growth rates and the most significant concentration of unicorn companies.
 
 #### Date of Entry Analysis:
 
 1. **Scatter Plots**:
-   - **Date Joined vs. Growth**: Investigates the relationship between the date a company joined the unicorn club and its growth rate.
+   - **Date Joined vs. Growth**: Looks at the relationship between the date a company joined the unicorn club and its growth rate.
    - **Entry Trends**: Shows how the entry year impacts the growth trajectory of unicorn companies.
 
 2. **Trend Lines**:
@@ -112,7 +112,7 @@ The analysis was conducted through a series of Jupyter notebooks, each focusing 
 #### Investor Analysis:
 
 1. **Bar Graphs**:
-   - **Top Investors**: Identifies the most frequent investors in unicorn companies and their investment focus areas.
+   - **Top Investors**: Identifies the most frequent investors in unicorn companies and their investment areas.
    - **Investor Frequency**: ![Investor Frequency](https://github.com/lanahuyen/Group_Project_1/blob/main/output_data/investor_frequency.png)
 
 2. **Network Diagrams**:
@@ -153,22 +153,22 @@ Looks at country-specific trends in relation to the date companies achieved unic
 Focuses on country-wise growth analysis, identifying which countries experienced the most significant growth in unicorn valuations over the specified period.
 
 ### 5. Unicorns_oty.ipynb
-Similar to the previous notebook but provides a more detailed breakdown of country-wise growth trends, highlighting key factors contributing to growth in different regions.
+A continuation of the previous notebook that provides a more detailed breakdown of country-wise growth trends, highlighting key factors contributing to growth in different regions.
 
 ### 6. Final_Industry.ipynb
-Analyzes industry-wise growth over the years, identifying which sectors have performed the best and which have faced challenges. Special attention is given to sectors like Artificial Intelligence and E-commerce.
+Analyzes industry-wise growth over the years, identifying which sectors have performed the best and worst. Special attention is given to sectors like Artificial Intelligence and E-commerce.
 
 ### 7. merged_df_setup.ipynb
 This notebook handles the initial merging of data from various sources to create a comprehensive dataset. It ensures that all necessary information is included for further analysis.
 
 ### 8. geoapify_df_setup.ipynb
-Sets up the Geoapify API for geographic analysis. This notebook is crucial for visualizing the location-based trends of unicorn companies.
+Sets up the Geoapify API for geographic analysis. This notebook is needed for visualizing the location-based trends of unicorn companies.
 
 ### 9. cagr_by_country.ipynb
 Calculates the average Compounded Annual Growth Rate (CAGR) by country, providing insights into which regions have the highest growth trajectories.
 
 ### 10. map_visualizations.ipynb
-Generates visualizations to show the geographic distribution of unicorn companies. These visualizations include maps highlighting key innovation hubs and growth patterns.
+Generates visualizations to show the distribution of unicorn companies. These visualizations include maps highlighting key innovation hubs and growth patterns.
 
 ---
 
@@ -178,22 +178,22 @@ Generates visualizations to show the geographic distribution of unicorn companie
 
 - **2022 Growth**: Artificial Intelligence experienced the highest average growth rate, while the E-commerce & Direct-to-Consumer and Edtech industries saw significant declines.
 - **2023 Growth**: Data Management & Analytics and Artificial Intelligence industries had notable growth, whereas the Internet and Supply Chain Logistics & Delivery industries experienced a decrease.
-- **Total Growth**: Artificial Intelligence and Other industries demonstrated the most substantial average total growth, highlighting their strong performance over the period.
+- **Total Growth**: Artificial Intelligence and Other industries demonstrated the most substantial average total growth.
 
 ### Country Analysis
 
 - **Highest Growth**: China had the highest growth from 2022 to 2023, while the United States experienced the largest growth from 2023 to 2024.
-- **Geographic Distribution**: The United States and China dominate the unicorn ecosystem, with the largest number of unicorn companies. Other countries like India and the United Kingdom also show significant presence but with varying growth trends.
+- **Geographic Distribution**: The United States and China dominated with the largest number of unicorn companies. Other countries like India and the United Kingdom also show a sizeable presence.
 
 ### Date of Entry Analysis
 
-- **Trends**: There is a significant increase in unicorn companies in 2021, likely due to accelerated digital transformation and increased adoption of technology driven by the COVID-19 pandemic.
-- **Insights**: The year of joining the unicorn club can significantly impact growth rates, with certain years seeing higher growth trends due to favorable economic and technological conditions.
+- **Trends**: There is a significant increase in unicorn companies in 2021, likely due to COVID-19 and the developments pushed by it
+- **Insights**: The year of joining the unicorn club can significantly impact growth rates, with certain years seeing higher growth trends due to a better economy.
 
 ### Investor Influence
 
-- **Top Investors**: Accel is the most frequent investor, with investments in 62 unicorn companies. Other notable investors include Sequoia Capital and Andreessen Horowitz.
-- **Impact**: Prominent investors play a crucial role in driving the success and growth of unicorn companies, often providing the necessary capital and expertise to scale rapidly.
+- **Top Investors**: Accel is the most frequent investor, with investments in 62 unicorn companies. Other top investors include Sequoia Capital and Andreessen Horowitz.
+- **Impact**: Prominent investors play important roles in the success and growth of unicorn companies, often providing the necessary capital and expertise to scale quickly.
 
 ---
 
@@ -208,7 +208,7 @@ Generates visualizations to show the geographic distribution of unicorn companie
 
 ### Conclusions
 
-The analysis reveals that industry and the year of joining significantly influence valuation growth. Artificial Intelligence stands out as a leading growth sector, while certain industries face market challenges. Geographic location and investor backing also play crucial roles in determining company success. This comprehensive analysis provides valuable insights for stakeholders looking to understand industry dynamics and growth trends.
+The analysis reveals that industry and the year of joining significantly influence valuation growth. Artificial Intelligence stands out as a leading growth sector, while certain industries face market challenges. Geographic location and investor backing also play important roles in determining company success. 
 
 ---
 
@@ -226,7 +226,7 @@ from pprint import pprint
 from api_keys import geoapify_key
 import matplotlib.pyplot as plt
 import seaborn as sns
-from matplotlib.backends.backend_pdf import PdfPages
+from matplotlib.backends.backend_pdf import PdfPages```
 
 ---
 
@@ -271,6 +271,7 @@ CB Insights
 Kaggle Datasets
 Presentation
 The detailed analysis and visualizations have been compiled into a presentation. You can view the full presentation here.
+(https://github.com/lanahuyen/Group_Project_1/blob/main/Presentation/Presentation_Group%207.pptx)
 
 ### Additional Notes
 **Data Limitations:** While the data is comprehensive, it is essential to acknowledge potential limitations, such as missing values and varying data formats.
